@@ -212,10 +212,9 @@ footer a > svg {
     padding: 30px;
     transform: translateX(-500px);
     transition: transform 0.5s ease-in-out;
-    backface-visibility: hidden;
   }
   nav ul.show {
-    transform: none;
+    transform: translateX(0px);
   }
   nav ul li {
     border-bottom: 1px solid #6a6a6a;
