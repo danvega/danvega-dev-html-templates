@@ -45,14 +45,14 @@ body {
   flex-grow: 1;
 }
 
-header {
+#navbar {
   display: flex;
   align-items: flex-end;
   justify-content: center;
   margin: 10px 0 0 0;
 }
 
-header > svg {
+#navbar > svg {
   margin-right: 20px;
   min-width: 100px;
 }
@@ -180,7 +180,7 @@ footer a > svg {
 /* MEDIA QUERIES */
 
 @media (max-width: 1024px) {
-  header,
+  #navbar,
   main {
     margin: 0 20px;
   }
@@ -232,7 +232,7 @@ footer a > svg {
     margin-left: 10px;
     cursor: pointer;
   }
-  header,
+  #navbar,
   main {
     margin: 0 20px;
   }

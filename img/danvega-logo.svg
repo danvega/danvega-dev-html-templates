@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="89" height="44" viewBox="0 0 89 44"><text transform="translate(0 35)" fill="#3273dc" font-size="27" font-family="Noteworthy-Bold, Noteworthy" font-weight="700"><tspan x="0" y="0">dan</tspan><tspan y="0" fill="#707070" font-family="Noteworthy-Light, Noteworthy" font-weight="300">vega</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="44" viewBox="0 0 89 44">
+  <text transform="translate(0 35)" fill="#3273dc" font-size="27" font-family="'Handlee', cursive" font-weight="700">
+    <tspan x="0" y="0">dan</tspan>
+    <tspan y="0" fill="#707070" font-family="'Handlee', cursive" font-weight="300">vega</tspan>
+  </text>
+</svg>
